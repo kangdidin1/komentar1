@@ -1,3 +1,4 @@
+//<![CDATA[
 var disqus_shortname="indonesiaku-1";
 var disqus_url = disqus_blogger_current_url;
 
@@ -52,3 +53,4 @@ var disqus_url = disqus_blogger_current_url;
 $(".commentbtn").click(function (e) {
 $(this).addClass("btncurrent").siblings().removeClass("btncurrent");
 });
+//]]>
